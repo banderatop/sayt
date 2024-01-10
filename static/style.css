@@ -1,0 +1,25 @@
+p, h1{
+    color: red;
+
+}
+
+.blue{
+    color:  blue;
+    font-weight: 300;
+}
+
+body{
+    background:purple ;
+}
+
+.my-btn{
+    display: block;
+    color: white;
+    width:  200px;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 30px;
+    text-decoration: none;
+    border: 1px solid #000;
+    border-radius: 10px;
+}
